@@ -4,6 +4,10 @@
 Projeto consiste na criação de uma API Rest utilizando a linguagem de programação Java e o Spring Frameworl, nosso projeto consiste na simulação de um Fórum, na qual foi implmentadas algumas funcionalidades de autenticação via token JWT, buscar por determinado tópicos, criação de tópicos e exclusão do mesmo.
 Para exemplos de funcionalidade foi utilizado o postman.
 
+<div align="center">
+    <img src="/imagens/Badge-Spring.png" alt="Badge do desafio">
+</div>
+
 ## Stack utilizada
 
 **Back-end:** Java, Spring boot
